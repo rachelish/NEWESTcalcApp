@@ -36,7 +36,7 @@ The following EXTRA features are implemented:
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
-<img src='./Screen_recording_20231015_185526.webm' title='Video Demo' width='' alt='Video Demo' />
+<img src='./codepath_gif_p4.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
